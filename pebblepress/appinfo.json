@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "RevDev",
+    "longName": "Pebble Press",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "PebblePress",
+    "uuid": "260b9a21-559d-4c18-b283-1d4b1f7e7e4f",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
