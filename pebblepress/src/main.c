@@ -71,7 +71,7 @@ static void menu_draw_row_callback(GContext* ctx, const Layer *cell_layer, MenuI
 
         case 1:
           // This is a basic menu icon with a cycling icon
-          menu_cell_basic_draw(ctx, cell_layer, "Brew Time", "4:00", NULL);
+          menu_cell_basic_draw(ctx, cell_layer, "Steep Time", "4:00", NULL);
           break;
       }
       break;
