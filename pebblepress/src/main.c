@@ -1,10 +1,11 @@
-//			PebblePress 			//
-// 									//
+//			PebblePress 			          //
+// 									                //
 //	Created by Revelry Development	//
-//									//
+//									                //
 
 
 #include <pebble.h>
+
 
 #define NUM_MENU_SECTIONS 2
 //#define NUM_MENU_ICONS 3
